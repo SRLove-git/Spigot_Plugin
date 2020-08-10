@@ -1,0 +1,9 @@
+name: SKY
+main: org.mallor.sky.A
+version: 1.0
+commands:
+  cmd:
+    description: 这是一个命令
+    permission: op
+  GUI:
+    description: GUI
